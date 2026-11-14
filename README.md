@@ -42,8 +42,6 @@ python app.py
 - **Eliminar**: selecciona un cliente en la tabla y presiona Eliminar.
 - **Consultar**: la tabla muestra todos los clientes; el buscador filtra por nombre, apellido o teléfono.
 
-## Uso de Inteligencia Artificial
-Este proyecto se desarrolló con apoyo de Claude (Anthropic) para generar la estructura del código y las validaciones.
 
 ## Autor
-Tu nombre aquí
+Jesus Encarnacion 100590273
